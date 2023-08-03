@@ -1,0 +1,14 @@
+{
+  "mapBanner": "https://raw.githubusercontent.com/deemakuzovkin/bh-images/main/maps/2v2/Small Enigma.png",
+  "mapName": "Small Enigma",
+  "firstTeam": {
+    "name": "Number One",
+    "legendOneBanner": "",
+    "legendTwoBanner": ""
+  },
+  "secondTeam": {
+    "name": "Number Two",
+    "legendOneBanner": "",
+    "legendTwoBanner": ""
+  }
+}
