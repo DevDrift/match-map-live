@@ -1,27 +1,15 @@
-# MatchMapLive
+# Match Map Live
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
+Overlay for Brawlhalla tournaments. To show the statistics of players and their chosen legends and map selected.
 
-## Development server
+## Small enigma
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<img alt="brawlhalla" src="small-enigma-map-1.png" width="900"/>
 
-## Code scaffolding
+## Fortress of the lions
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<img alt="brawlhalla" src="fortress-of-the-lions-map.png" width="900"/>
 
-## Build
+You can also see an example of successful implementation of this overlay
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+[![DevDrift | Brawlhalla | Tournament | API](https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d023d924822d7c0b5bdf_834283860_1799520848_ad7455cc-1b3c-46ac-a379-a88a5a8d3528/thumb/index-0000000000-640x360.jpg)](https://www.twitch.tv/videos/1799520848 "DevDrift | Brawlhalla | Tournament | API")
