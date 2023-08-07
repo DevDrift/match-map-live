@@ -6,21 +6,21 @@
         </g>
         <g *ngIf="liveData?.secondTeam != null" id="team-2">
             <g *ngIf="liveData?.secondTeam.legendOneBanner != ''" id="t-2-l-1" filter="url(#filter1_d_49_2)">
-                <rect id="legend-img-2" width="1500" height="1500" transform="matrix(-1 0 0 1 2295 -209)"
+                <rect id="legend-img-2" width="1500" height="1500" transform="matrix(-1 0 0 1 2295 -339)"
                       fill="url(#pattern1)"/>
             </g>
             <g *ngIf="liveData?.secondTeam.legendOneBanner != ''" id="team-name-2" filter="url(#filter2_d_49_2)">
                 <path id="font-panel" d="M1920 1001L1106 1000L1151.15 1041L1106 1080L1920 1081V1001Z" fill="#190E36"/>
-                <text id="name-2-value" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" text-anchor="middle" letter-spacing="0em"><tspan x="1321.05" y="1054.09">{{liveData?.secondTeam.name}}</tspan></text>
+                <text id="name-2-value" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" text-anchor="middle" letter-spacing="0em"><tspan x="1520" y="1054.09">{{liveData?.secondTeam.name}}</tspan></text>
             </g>
         </g>
         <g *ngIf="liveData?.firstTeam != null" id="team-1">
             <g *ngIf="liveData?.firstTeam.legendOneBanner != ''" id="t-1-l-1" filter="url(#filter3_d_49_2)">
-                <rect id="legend-img-1" x="-461" y="-271" width="1567" height="1500" fill="url(#pattern2)"/>
+                <rect id="legend-img-1" x="-390" y="-325" width="1567" height="1500" fill="url(#pattern2)"/>
             </g>
             <g *ngIf="liveData?.firstTeam.legendOneBanner != ''" id="team-name-1" filter="url(#filter4_d_49_2)">
                 <path id="font-panel_2" d="M4 1001L777 1000L734.127 1041L777 1080L4 1081V1001Z" fill="#190E36"/>
-                <text id="name-1-value" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" text-anchor="middle" letter-spacing="0em"><tspan x="152.532" y="1054.09">{{liveData?.firstTeam.name}}</tspan></text>
+                <text id="name-1-value" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" text-anchor="middle" letter-spacing="0em"><tspan x="370" y="1054.09">{{liveData?.firstTeam.name}}</tspan></text>
             </g>
         </g>
         <rect *ngIf="liveData?.mapName !=''" id="Rectangle 12" y="113" width="1920" height="190" fill="#190E36"/>
