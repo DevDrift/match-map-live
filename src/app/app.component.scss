@@ -15,12 +15,16 @@ text{
   inline-size: 150px;
   text-shadow: 2px 2px 2px rgba(47, 94, 1, 0.9);
 }
+
+#map-rec{
+  opacity: 0.5;
+}
 #map-name{
   left: calc(50% - 903px/2 - 0.5px);
   top: calc(50% - 232px/2 - 154px);
   font-style: normal;
   font-weight: 700;
-  font-size: 80px;
+  font-size: 60px;
   line-height: 116px;
   text-align: center;
   text-transform: uppercase;

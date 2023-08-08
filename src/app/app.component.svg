@@ -23,8 +23,8 @@
                 <text id="name-1-value" fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="36" text-anchor="middle" letter-spacing="0em"><tspan x="370" y="1054.09">{{liveData?.firstTeam.name}}</tspan></text>
             </g>
         </g>
-        <rect *ngIf="liveData?.mapName !=''" id="Rectangle 12" y="113" width="1920" height="190" fill="#190E36"/>
-        <text *ngIf="liveData?.mapName !=''" id="map-name" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" letter-spacing="0em" text-anchor="middle"><tspan x="980.016" y="243.909">{{liveData?.mapName}}</tspan></text>
+        <rect *ngIf="liveData?.mapName !=''" id="map-rec" y="0" width="1920" height="90" fill="#190E36"/>
+        <text *ngIf="liveData?.mapName !=''" id="map-name" fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter" letter-spacing="0em" text-anchor="middle"><tspan x="980.016" y="68">{{liveData?.mapName}}</tspan></text>
     </g>
     <defs>
         <filter id="filter0_f_49_2" x="-18" y="-17" width="1956" height="1116" filterUnits="userSpaceOnUse"
