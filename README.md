@@ -2,10 +2,6 @@
 
 Overlay for Brawlhalla tournaments. To show the statistics of players and their chosen legends and map selected.
 
-## Small enigma
-
-<img alt="brawlhalla" src="small-enigma-map-1.png" width="900"/>
-
 ## Fortress of the lions
 
 <img alt="brawlhalla" src="fortress-of-the-lions-map.png" width="900"/>
